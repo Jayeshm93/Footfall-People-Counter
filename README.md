@@ -1,4 +1,4 @@
-# Footfall Counter: People Entry/Exit Detection using YOLO + SORT
+# Footfall Counter: People Entry/Exit Detection using YOLO and SORT
 
 
 ## Project Overview
