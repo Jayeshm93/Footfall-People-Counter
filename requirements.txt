@@ -1,0 +1,9 @@
+numpy
+opencv-python
+ultralytics>=8.0.0
+filterpy
+
+fastapi
+uvicorn
+python-multipart
+

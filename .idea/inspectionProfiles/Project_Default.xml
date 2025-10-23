@@ -1,0 +1,37 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="tiktoken" />
+            <item index="1" class="java.lang.String" itemvalue="python-magic" />
+            <item index="2" class="java.lang.String" itemvalue="faiss-cpu" />
+            <item index="3" class="java.lang.String" itemvalue="streamlit" />
+            <item index="4" class="java.lang.String" itemvalue="unstructured" />
+            <item index="5" class="java.lang.String" itemvalue="python-magic-bin" />
+            <item index="6" class="java.lang.String" itemvalue="OpenAI" />
+            <item index="7" class="java.lang.String" itemvalue="libmagic" />
+            <item index="8" class="java.lang.String" itemvalue="langchain" />
+            <item index="9" class="java.lang.String" itemvalue="protobuf" />
+            <item index="10" class="java.lang.String" itemvalue="fastapi" />
+            <item index="11" class="java.lang.String" itemvalue="redis" />
+            <item index="12" class="java.lang.String" itemvalue="react-native" />
+            <item index="13" class="java.lang.String" itemvalue="requests_cache" />
+            <item index="14" class="java.lang.String" itemvalue="retry_requests" />
+            <item index="15" class="java.lang.String" itemvalue="chromadb" />
+            <item index="16" class="java.lang.String" itemvalue="sentence_transformers" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
