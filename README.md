@@ -107,8 +107,11 @@ Run to see real-time video detection-tracker and counter:
     python main.py
 
 
-### People counting screenshots
+### 2. People counting screenshots
 <img src="resources/Screenshot 2025-10-23 201855.png" alt="Dashboard" width="600"/>
+
+
+### 3. After processign the all video will print the final all counted people.
 
 
 ### 2. To providing the video and returns counts without seeing the video screening
