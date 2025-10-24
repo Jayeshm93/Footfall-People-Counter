@@ -108,6 +108,7 @@ Run to see real-time video detection-tracker and counter:
 
 
 ### 2. People counting screenshots
+That blue line is for counting the people for entry and exits.
 <img src="resources/Screenshot 2025-10-23 201855.png" alt="Dashboard" width="600"/>
 
 
