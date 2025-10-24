@@ -108,7 +108,7 @@ Run to see real-time video detection-tracker and counter:
 
 
 ### People counting screenshots
-<img src="resources/Screenshot 2025-10-23 201855.png" alt="Dashboard" width="500"/>
+<img src="resources/Screenshot 2025-10-23 201855.png" alt="Dashboard" width="600"/>
 
 
 ### 2. To providing the video and returns counts without seeing the video screening
@@ -122,7 +122,7 @@ Run to see real-time video detection-tracker and counter:
     ```bash
     http://127.0.0.1:8000/count_entries_exits
 
-3. Get final counter after processing the video:
+3. Get final counter after processing the video in postman:
     
     ```bash
     {
