@@ -107,7 +107,7 @@ Run to see real-time video detection-tracker and counter:
     python main.py
 
 
-![People counting screenshots](./resources/Screenshot 2025-10-23 201855.png)
+![People counting screenshots]([./resources/Screenshot 2025-10-23 201855.png](https://github.com/Jayeshm93/Footfall-People-Counter/blob/7aa4fda33d288baa1ec7acb7f09a58d2743084ad/resources/Screenshot%202025-10-23%20201855.png))
 
 
 
