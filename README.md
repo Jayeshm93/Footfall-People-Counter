@@ -115,7 +115,7 @@ That blue line is for counting the people for entry and exits.
 ### 3. After processign the all video will print the final all counted people.
 
 
-### 2. To providing the video and returns counts without seeing the video screening
+### 2. (Bonus) To providing the video and returns counts without seeing the video screening
 1. Run the server api:
 
     ```bash
