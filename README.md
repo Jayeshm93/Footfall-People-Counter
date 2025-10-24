@@ -109,7 +109,7 @@ Run to see real-time video detection-tracker and counter:
 
 ![People counting screenshots]([./resources/Screenshot 2025-10-23 201855.png](https://github.com/Jayeshm93/Footfall-People-Counter/blob/7aa4fda33d288baa1ec7acb7f09a58d2743084ad/resources/Screenshot%202025-10-23%20201855.png))
 
-<img src="[images/dashboard.png](https://github.com/Jayeshm93/Footfall-People-Counter/blob/7aa4fda33d288baa1ec7acb7f09a58d2743084ad/resources/Screenshot%202025-10-23%20201855.png)" alt="Dashboard" width="500"/>
+<img src="resources/Screenshot 2025-10-23 201855.png" alt="Dashboard" width="500"/>
 
 
 ### 2. To providing the video and returns counts without seeing the video screening
