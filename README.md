@@ -106,6 +106,7 @@ Run to see real-time video detection-tracker and counter:
     ```bash
     python main.py
 
+![People counting screenshots](resources/Screenshot 2025-10-23 201855.png)
 
 
 ### 2. To providing the video and returns counts without seeing the video screening
